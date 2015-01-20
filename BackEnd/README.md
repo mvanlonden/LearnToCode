@@ -20,15 +20,19 @@ A backend is defined by the code that runs on your server. A backend manages wha
 #### CRUD
 
 ### Persistance
-#### Key Value
+#### Local
+##### Key Value
 - Redis
 
-#### Tree
+##### Tree
 - MongoDB
 - CouchDB
 
-#### Table
+##### Table
 - MySQL
+
+##### Graph
+- Neo4j
 
 #### BaaS (Backend as a Service)
 - Firebase
