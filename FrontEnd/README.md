@@ -10,3 +10,14 @@ In order to display content in a client's browser. The frontend code will be loa
 - Javascript
 
 ### Frameworks
+#### Styling
+- Bootstrap
+- Google Material
+
+#### Interaction
+- JQuery
+- Angular
+
+### Mobile
+- Ionic
+- Foundation

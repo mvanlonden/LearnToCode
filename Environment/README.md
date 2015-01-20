@@ -12,6 +12,3 @@ Setting up your development, staging and production enviroments are crucial to b
 - Homebrew
 - NPM
 - Bower 
-
-
-
